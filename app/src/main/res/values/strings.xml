@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">GrootCleaning navigates Android Settings to clear cache/data and remove accounts you selected. It only acts inside Settings and the selected app.</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Groot" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/gc_black</item>
+        <item name="android:navigationBarColor">@color/gc_black</item>
+        <item name="android:windowBackground">@color/gc_black</item>
+    </style>
+</resources>
